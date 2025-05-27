@@ -1,1 +1,1 @@
-#This is a simple react app for checking the weather in different cities using react as front end and using public api from Openweather
+#This is a simple react app 
