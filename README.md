@@ -1,1 +1,1 @@
-#This is a simple react app 
+#This is a simple react app used to find whether in defferent cities by entering city name
