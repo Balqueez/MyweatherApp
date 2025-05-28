@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const API_KEY = "ENTER_YOUR_APIKEY"; // get free API key from https://openweathermap.org/api
+const API_KEY = "ENTER_YOUR_APIKEY"; // API key from https://openweathermap.org/api
 
 function App() {
   const [city, setCity] = useState("");
